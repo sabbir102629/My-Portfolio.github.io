@@ -96,7 +96,7 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #fff;
+    color: rgb(12, 12, 12);
     font-size: 35px;
     font-weight: 600;
 }
@@ -113,7 +113,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: rgb(5, 5, 5);
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -123,7 +123,7 @@ section .title::after{
     color: crimson;
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: rgb(250, 244, 244);
 }
 
 /* menu btn styling */
@@ -165,9 +165,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("images/abu\ shaid.jpg") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: rgb(10, 10, 10);
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
